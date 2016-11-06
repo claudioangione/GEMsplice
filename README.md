@@ -4,10 +4,10 @@
 Please note this code has been tested with Matlab R2015b and Octave 4.0.3.
 
 If you use this code, please cite:
-C. Angione, "GEMsplice: integrating splice-isoform expression into genome-scale models of breast cancer metabolism"
+>> C. Angione, "GEMsplice: integrating splice-isoform expression into genome-scale models of breast cancer metabolism"
 
 For assistance and additional details, please do not hesitate to contact:
-Claudio Angione (c.angione@tees.ac.uk, cla.angione@gmail.com)
+Claudio Angione (https://www.scm.tees.ac.uk/c.angione/)
 
 
 --------------------
@@ -87,7 +87,4 @@ This is free software for academic use: you can redistribute it and/or modify it
 
 This code is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Public License for more details.
 
-
-Claudio Angione
-cla.angione@gmail.com
-November 2016
+Claudio Angione, November 2016
