@@ -87,4 +87,4 @@ This is free software for academic use: you can redistribute it and/or modify it
 
 This code is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Public License for more details.
 
-Claudio Angione, November 2016
+Claudio Angione, December 2016
