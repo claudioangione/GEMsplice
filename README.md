@@ -1,10 +1,10 @@
 # GEMsplice
-## Integrating splice-isoform expression into genome-scale models of breast cancer metabolism
+## Integrating splice-isoform expression into genome-scale models characterizes breast cancer metabolism
 
 Please note this code has been tested with Matlab R2015b and Octave 4.0.3.
 
 If you use this code, please cite:
->> C. Angione, "Integrating splice-isoform expression into genome-scale models of breast cancer metabolism"
+>> C. Angione, "Integrating splice-isoform expression into genome-scale models characterizes breast cancer metabolism"
 
 For assistance and additional details, please do not hesitate to contact:
 Claudio Angione (https://www.scm.tees.ac.uk/c.angione/)
